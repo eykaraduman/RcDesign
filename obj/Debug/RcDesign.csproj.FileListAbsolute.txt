@@ -1,0 +1,11 @@
+D:\NetProgramming\Uygulamalar\Betonarme\RcDesign\bin\Debug\RcDesign.dll
+D:\NetProgramming\Uygulamalar\Betonarme\RcDesign\bin\Debug\RcDesign.pdb
+D:\NetProgramming\Uygulamalar\Betonarme\RcDesign\bin\Debug\UnitsNet.dll
+D:\NetProgramming\Uygulamalar\Betonarme\RcDesign\bin\Debug\UnitsNet.xml
+D:\NetProgramming\Uygulamalar\Betonarme\RcDesign\obj\Debug\RcDesign.csproj.CoreCompileInputs.cache
+D:\NetProgramming\Uygulamalar\Betonarme\RcDesign\obj\Debug\RcDesign.csproj.CopyComplete
+D:\NetProgramming\Uygulamalar\Betonarme\RcDesign\obj\Debug\RcDesign.dll
+D:\NetProgramming\Uygulamalar\Betonarme\RcDesign\obj\Debug\RcDesign.pdb
+D:\NetProgramming\Uygulamalar\Betonarme\RcDesign\obj\Debug\RcDesign.csprojAssemblyReference.cache
+D:\NetProgramming\Uygulamalar\Betonarme\RcDesign\bin\Debug\RcStrengthDesign.dll
+D:\NetProgramming\Uygulamalar\Betonarme\RcDesign\bin\Debug\RcStrengthDesign.pdb
